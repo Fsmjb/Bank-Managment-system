@@ -22,3 +22,16 @@
   <li> Admin watch how many acount created</li>
   <li> Admin know how many load get</li>
 </ol>
+
+<h2>Concept use </h2>
+<ol>
+  <li>Condition statement</li>
+  <li>Loops</li>
+   <li>switch</li>
+   <li>Function</li>
+   <li> Array</li>
+  <li>Pointer</li>
+   <li>Structure</li>
+  <li>Class</li>
+  
+</ol>
